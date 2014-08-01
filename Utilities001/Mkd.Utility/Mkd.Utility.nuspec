@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Mkd.Utility</id>
+    <version>1.0.0.0</version>
+    <title>Mkd.Utility</title>
+    <authors>Michael Daw</authors>
+    <owners>Michael Daw</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.net utilities that I use a lot.</description>
+    <!--<licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>-->    
+    <summary>Mkd.Utilities
+.net stuff I use a lot.
+
+Enumerable extensions:
+
+Adds foreach to IEnumerable
+
+Adds a verison of foreach that exposes the index by reference and allows to indicate start index, max iterations, and skip.
+
+String Extensions:
+
+SurroundWith surrounds a string with a another string.
+
+ContainsIgnoreCase performs .Contains disregarding case.
+
+EqualsNoCase determines equality ignoring case.</summary>
+    <releaseNotes>First release.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>mkd</tags>
+  </metadata>
+</package>
