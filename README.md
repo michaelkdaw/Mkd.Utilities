@@ -12,5 +12,7 @@ Adds a verison of foreach that exposes the index by reference and allows to indi
 String Extensions:
 ------------------
 SurroundWith surrounds a string with a another string.
+
 ContainsIgnoreCase performs .Contains disregarding case.
+
 EqualsNoCase determines equality ignoring case.
